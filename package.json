@@ -1,7 +1,9 @@
 {
-  "name": "vuepress-theme-reco-demo",
+  "name": "刘杨的博客",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "description": "道阻且长，行则将至",
+  "author": "刘杨",
+  "main": "index.js",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."
@@ -11,3 +13,5 @@
     "vuepress-theme-reco": "1.6.10"
   }
 }
+
+

@@ -1,18 +1,18 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
-# heroImage: /hero.png
-# heroImageStyle: {
-#   maxWidth: '600px',
-#   width: '100%',
-#   display: block,
-#   margin: '9rem auto 2rem',
-#   background: '#fff',
-#   borderRadius: '1rem',
-# }
+heroText: 刘杨的博客
+tagline: 刘杨的个人博客。
+heroImage: /hero.png
+heroImageStyle: {
+  maxWidth: '600px',
+  width: '100%',
+  display: block,
+  margin: '9rem auto 2rem',
+  background: '#fff',
+  borderRadius: '1rem',
+}
 bgImageStyle: {
-  height: '450px'
+  height: '250px'
 }
 isShowTitleInHome: false
 actionText: Guide
